@@ -96,7 +96,7 @@ Movies with **similarity < 0.05** are automatically filtered out.
 ✅ Forked GitHub Repository with complete implementation.  
 ✅ Jupyter Notebook (`.ipynb`) for execution.  
 ✅ `README.md` (this file) with setup and instructions.  
-✅ Short Demo Video demonstrating system execution. (https://drive.google.com/file/d/1cLc02_5_F5bT5_IPoKna_LKv_2SgLcCv/view?usp=sharing))
+✅ Short Demo Video demonstrating system execution(https://drive.google.com/file/d/1cLc02_5_F5bT5_IPoKna_LKv_2SgLcCv/view?usp=sharing).
 ✅ Implementation using TF-IDF + Cosine Similarity for recommendation generation.  
 
 This recommendation system is **simple, efficient, and provides accurate movie suggestions** based on **user text input preferences**. 🎬✨
